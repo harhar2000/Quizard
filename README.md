@@ -1,4 +1,4 @@
-# Trivia Game Application
+# Quizard - A Java deployed trivia game
 
 This is a full-stack Trivia Game application built with a SpringBoot backend and React frontend. The application allows users to register, login and participate in a trivia quiz. It also includes a leaderboard to track users' scores.
 
