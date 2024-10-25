@@ -11,6 +11,11 @@ This is a full-stack Trivia Game application built with a SpringBoot backend and
 - Dynamic question fetching from the Open Trivia Database
 - Responsive design
 
+
+[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/uc?export=download&id=1lw9zjJxciPdYHFaTuw1iVjiXwAy_71cp)
+
+
+
 ## Tech Stack
 
 ### Backend (API)
