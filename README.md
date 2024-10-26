@@ -14,7 +14,7 @@ This is a full-stack Trivia Game application built with a SpringBoot backend and
 [Click here to play!](https://trivia-react-latest.onrender.com/signup)
 
 
-[Click here to see Demo](https://drive.google.com/uc?export=download&id=1lw9zjJxciPdYHFaTuw1iVjiXwAy_71cp)
+[Click here to see Demo](https://drive.google.com/file/d/1lw9zjJxciPdYHFaTuw1iVjiXwAy_71cp/view)
 
 
 ## Tech Stack
